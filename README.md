@@ -9,4 +9,10 @@ This project simulates a smart room automation system using an Arduino. It intel
 | Push Button (Switch)| 4 | Simulates a door or window trigger for the security system.|
 | Buzzer | 2 | Sounds an alarm when motion is detected and the switch is active (simulating a security breach) |
 | TMP36 (Temperature Sensor) | A1 | Monitors room temperature and triggers the fan when temperature exceeds threshold.|
-| Servo Motor (Fan Simulation) | 
+| Servo Motor (Fan Simulation) | 10 | Simulates a fan. Rotates back and forth when temperature is high.|
+| LED | 13 | Represents room light. Turns on when motion is detected in darkness.|
+
+## [Tinker cad simulation Link](https://www.tinkercad.com/things/h52kM4YNCut-embeded-project-)
+
+### Simulation Video
+<video src="./simulation.mp4" width="320" height="240" controls></video>
