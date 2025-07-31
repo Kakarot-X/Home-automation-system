@@ -1,4 +1,4 @@
-# Home automation system
+# **Home automation system**
 This project simulates a smart room automation system using an Arduino. It intelligently controls room lighting, temperature-based fan activation, and a basic security alert mechanism. The system uses sensor inputs to make decisions and control outputs like a fan (servo motor), LED light, and a buzzer, creating an automated and responsive environment.
 
 ## Components
@@ -19,4 +19,3 @@ This project simulates a smart room automation system using an Arduino. It intel
 https://github.com/user-attachments/assets/260944d8-d86b-46ea-a96e-6b78d05e4589
 
 
-[![Watch the video]](./simulation.mp4)
