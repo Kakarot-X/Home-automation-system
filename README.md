@@ -15,4 +15,4 @@ This project simulates a smart room automation system using an Arduino. It intel
 ## [Tinker cad simulation Link](https://www.tinkercad.com/things/h52kM4YNCut-embeded-project-)
 
 ### Simulation Video
-[![Watch the video](https://raw.githubusercontent.com/Kakarot-X/Home-automation-system/blob/main/simulation.jpeg)](https://raw.githubusercontent.com/Kakarot-X/Home-automation-system/blob/main/simulation.mp4)
+[![Watch the video]](https://raw.githubusercontent.com/Kakarot-X/Home-automation-system/blob/main/simulation.mp4)
