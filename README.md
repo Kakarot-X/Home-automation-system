@@ -12,7 +12,11 @@ This project simulates a smart room automation system using an Arduino. It intel
 | Servo Motor (Fan Simulation) | 10 | Simulates a fan. Rotates back and forth when temperature is high.|
 | LED | 13 | Represents room light. Turns on when motion is detected in darkness.|
 
-## [Tinker cad simulation Link](https://www.tinkercad.com/things/h52kM4YNCut-embeded-project-)
+## Simulation 
 
-### Simulation Video
+[Tinker cad simulation Link](https://www.tinkercad.com/things/h52kM4YNCut-embeded-project-)
+
+https://github.com/user-attachments/assets/260944d8-d86b-46ea-a96e-6b78d05e4589
+
+
 [![Watch the video]](./simulation.mp4)
